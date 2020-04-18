@@ -64,3 +64,40 @@ body {
 .btn-wrapper p {
     margin: 10px 0;
 }
+
+.fa {
+    margin-right: 5px;
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+}
+
+.logo {
+    width: 123px;
+    margin-top: 20px;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    background-color: rgba(255, 255, 255, 0.3);
+    float:right;
+}
+
+.header-right:hover {
+background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+    line-height: 65px;
+    padding-left: 10px;
+    padding-right: 10px ;
+    color: white;
+    display: block;
+    transition: all 0.5s;
+}
