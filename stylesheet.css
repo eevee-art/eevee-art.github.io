@@ -182,7 +182,7 @@ footer img {
 
 footer p {
     font-size: 12px;
-    color: #b3aeb5;
+    color: #b4afb6;
 }
 
 footer {
@@ -190,9 +190,7 @@ footer {
 }
 
 .message:active {
-  box-shadow: none;
-  position: relative;
-  top: 7px;
+    box-shadow: none;
+    position: relative;
+    top: 7px;
 }
-
-
