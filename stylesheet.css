@@ -189,7 +189,7 @@ footer {
     padding-top: 30px;
 }
 
-.message {
+.message:active {
   box-shadow: none;
   position: relative;
   top: 7px;
