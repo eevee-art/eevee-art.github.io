@@ -1,0 +1,109 @@
+/* Navbar */
+.nav-link {
+    margin-right: 30px;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 110px;
+    min-height: 650px;
+}
+
+.jumbotron img {
+    width: 250px;
+    border: 5px solid rgb(151, 145, 145);
+}
+
+.jumbotron .display-4 {
+    margin-top: 15px;
+}
+
+/* Garis hitam bottom */
+hr {
+    width: 200px;
+    border-top: 3px solid rgb(151, 145, 145);
+}
+
+/* About */
+
+#about {
+    min-height: 450px;
+}
+
+.about p {
+    margin-top: 20px;
+}
+
+
+/* Portfolio */
+#portfolio {
+    min-height: 720px;
+}
+
+.portfolio {
+    background-color: #eeeeee;
+}
+
+.portfolio h2 {
+    margin-top: 35px;
+}
+
+.row img {
+    margin: 15px auto;
+}
+
+.portfolio hr {
+    margin-bottom: 15px;
+}
+
+/* Contact */
+
+#contact {
+    min-height: 825px;
+}
+
+.contact h2 {
+    margin-top: 35px;
+}
+
+/* Footer */
+footer {
+    background-color: #333333;
+    height: 200px;
+    width: 100%;
+    padding-top: 30px;
+}
+
+footer h4 {
+    color: white;
+}
+
+footer p {
+    color: #aaa;
+    margin-top: 35px;
+}
+
+.fa-twitter {
+    font-size: 2em;
+    margin: 10px 10px;
+}
+
+.fa-instagram {
+    color: #bc2a8d;
+    font-size: 2.1em;
+    margin: 10px 10px
+}
+
+.fa-instagram:hover {
+    color: #962070;
+}
+
+.fa-facebook {
+    color: #4267B2;
+    font-size: 2.1em;
+    margin: 10px 10px
+}
+
+.fa-facebook:hover {
+    color: #36538f;
+}
