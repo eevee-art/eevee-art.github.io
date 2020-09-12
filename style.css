@@ -18,6 +18,13 @@
     margin-top: 15px;
 }
 
+/* Responsive Smartphone */
+@media (max-width: 576px) {
+    .display-4 {
+        font-size: 45px;
+    }
+}
+
 /* Garis hitam bottom */
 hr {
     width: 200px;
